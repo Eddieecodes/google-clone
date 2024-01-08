@@ -1,0 +1,48 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.googlediv{
+ margin: 0;
+ padding-top:120px;
+ display: grid;
+ place-items: center;
+}
+.searchinput{
+    border-radius: 20px;
+    width: 630px;
+    height: 50px;
+    margin-top: 15px;
+    font-size: 16px;
+    box-sizing: border-box;
+    border:1px solid rgb(164, 164, 216);
+    padding-left: 20px;
+    line-height: 24px;
+
+}
+.btndiv{
+    display: flex;
+    padding-top: 60px;
+    justify-content: center;
+
+}
+.googlebtn{
+    background-color: whitesmoke;
+    border:1px solid whitesmoke;
+    box-shadow: none;
+    width: 150px;
+    height: 35px;
+    cursor: pointer;
+    font-size: 15px;
+}
+.feelingbtn{
+    background-color: whitesmoke;
+    border-color: white;
+    border: 1px solid whitesmoke;
+    width: 150px;
+    height: 35px;
+    margin-left: 10px;
+    cursor: pointer;
+    box-sizing: border-box;
+    font-size: 15px;
+}
